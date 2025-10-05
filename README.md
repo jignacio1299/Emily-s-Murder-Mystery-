@@ -16,4 +16,10 @@ Check out some screenshots of the gameplay:
 
 <img width="313" height="571" alt="image" src="https://github.com/user-attachments/assets/c32d764b-2387-499e-8a4c-4363d57a5e96" />
 
+<img width="298" height="571" alt="image" src="https://github.com/user-attachments/assets/6a70c62f-169b-4198-96bb-ca3ed3c80145" />
+
+<img width="285" height="571" alt="image" src="https://github.com/user-attachments/assets/d782c455-14aa-4676-9083-918ca2d624f4" />
+
+
+
 ![menu](https://github.com/user-attachments/assets/b4bd766b-a9c2-4fca-a2b7-6ad8c579ae71)
