@@ -12,7 +12,7 @@ along with some secrets hidden around the house. The game would end when the pla
 
 The game as of now isn't playable, since it relies on real-world elements. But, I uploaded this here to potentially use it in the future, and to also show off some of the stuff I was doing before entering University.
 
-Check out some screenshots of the gameplay:
+Check out some screenshots of the gameplay (these were taken in Roblox Studio and the studio is trying to simulate the frame of an iPhone; the iPhone in the picture is not part of the game):
 
 <img width="313" height="571" alt="image" src="https://github.com/user-attachments/assets/c32d764b-2387-499e-8a4c-4363d57a5e96" />
 
