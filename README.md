@@ -15,4 +15,5 @@ The game as of now isn't playable, since it relies on real-world elements. But, 
 Check out some screenshots of the gameplay:
 
 <img width="313" height="571" alt="image" src="https://github.com/user-attachments/assets/c32d764b-2387-499e-8a4c-4363d57a5e96" />
+
 ![menu](https://github.com/user-attachments/assets/b4bd766b-a9c2-4fca-a2b7-6ad8c579ae71)
