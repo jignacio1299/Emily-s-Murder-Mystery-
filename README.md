@@ -23,3 +23,5 @@ Check out some screenshots of the gameplay (these were taken in Roblox Studio an
 
 
 ![menu](https://github.com/user-attachments/assets/b4bd766b-a9c2-4fca-a2b7-6ad8c579ae71)
+
+This game was heavily inspired by Peek-a-Phone
